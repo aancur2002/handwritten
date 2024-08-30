@@ -1,0 +1,1 @@
+This is a handwritten recognition system using TensorFlow, but it is not recognizing the digits correctly. I have put some sequence numbers but it recognize incorrectly.  Please check and correct the issue if you can.
